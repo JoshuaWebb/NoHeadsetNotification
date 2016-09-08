@@ -1,0 +1,4 @@
+<resources>
+   <string name="app_name">NoHeadsetNotification</string>
+   <string name="xposed_description">Disable the permanent notification when a "Headset is plugged in"</string>
+</resources>
